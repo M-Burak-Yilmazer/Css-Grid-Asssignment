@@ -20,7 +20,7 @@ body {
   color: white;
   gap: 1.5rem;
   text-align: center;
-  margin: auto;
+
 
   & > * {
     padding: 20px;
