@@ -21,10 +21,10 @@ body {
   gap: 1.5rem;
   text-align: center;
   margin: auto;
-  
+
   & > * {
-  padding: 20px;
-}
+    padding: 20px;
+  }
   /* width: 80%; */
 }
 header {
@@ -61,7 +61,7 @@ footer {
 
 @media (min-width: 900px) {
   .container {
-    width: 80%;
+    width: 70%;
     margin: auto;
   }
 }
